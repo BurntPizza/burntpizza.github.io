@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Query me this"
+date: 2017-05-25 11:46:00
 ---
 <style>
 code {
