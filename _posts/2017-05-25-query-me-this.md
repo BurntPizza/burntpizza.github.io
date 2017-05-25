@@ -38,7 +38,7 @@ span[ib] {
 </div>
 -----  
 <br>
-Today [Logan](https://github.com/loganmhb) and I pair programmed on his Datomic-inspired [logos](https://github.com/loganmhb/logos) database, implementing query resolution with a backtracking query engine.  
+Yesterday [Logan](https://github.com/loganmhb) and I pair programmed on his Datomic-inspired [logos](https://github.com/loganmhb/logos) database, implementing query resolution with a backtracking query engine.  
   
 At least that's the short way to put it. The long way, the detailed way, the *chronicle of prolonged mental suffering*, well that's what this post is.  
   
