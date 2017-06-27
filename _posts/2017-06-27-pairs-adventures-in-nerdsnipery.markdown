@@ -32,7 +32,7 @@ span[ib] {
 (via [xkcd](https://xkcd.com/356/))
 </div>
 
-![Chart]({{ site.github.url }}/assets/pairs.svg)  
+![Chart]({{ site.github.url }}/assets/pairs2.svg)  
 
 ## Introduction
 So the other day I was reading Cracking the Coding Interview (a great book), and noticed that one of the example programming problems was one that I had done recently on [Hackerrank](http://hackerrank.com). I mentioned this to my friend Ethan sitting next to me, and we got into a discussion.  
