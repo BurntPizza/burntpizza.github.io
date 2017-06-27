@@ -202,4 +202,12 @@ test bench_radix_sort_search_10_000  ... bench:     158,876 ns/iter (+/- 3,629)
 test bench_radix_sort_search_100_000 ... bench:   1,750,755 ns/iter (+/- 44,370)
 ```
 
-Hashtables beware!
+Hashtables beware!  
+  
+----------  
+  
+<br>
+<br>
+Bonus log-log graph:  
+  
+![Chart]({{ site.github.url }}/assets/pairsloglog.svg)  
